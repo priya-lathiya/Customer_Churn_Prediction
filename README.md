@@ -77,8 +77,8 @@ Output Layer →  Dense(1, sigmoid)
 
 | Metric | Value |
 |---|---|
-| AUC Score | *(add your value)* |
-| Best Threshold | *(add your value)* |
+| AUC Score | 0.7994 |
+| Best Threshold | 0.2660 |
 
 ---
 
