@@ -103,5 +103,3 @@ Output Layer →  Dense(1, sigmoid)
 3. Click **Run All**
 
 ---
-
-## 🔧 Project Workflow
